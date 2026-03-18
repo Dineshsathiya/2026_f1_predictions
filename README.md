@@ -1,5 +1,3 @@
-:
-
 🏎️ F1 Race Prediction Model (Python + FastF1)
 
 A machine learning project that predicts the finishing order of a Formula 1 race using historical race data, driver performance metrics, and team performance.
