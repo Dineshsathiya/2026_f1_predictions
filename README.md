@@ -114,7 +114,7 @@ pip install fastf1 pandas numpy scikit-learn xgboost
 Run the script:
 
 ```
-python china_gp_predictor.py
+python chinesegp.py
 ```
 
 The program will:
