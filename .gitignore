@@ -1,0 +1,6 @@
+f1_cache/
+formulaone/f1_cache/
+__pycache__/
+*.pyc
+*.pkl
+*.sqlite
